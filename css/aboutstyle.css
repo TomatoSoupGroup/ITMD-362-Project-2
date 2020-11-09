@@ -26,6 +26,18 @@
   color: white;
 }
 
+.font_1 {
+  style="relative";
+}
+
+.font_2 {
+  style="relative";
+}  
+
+.font_3{
+  style="relative";
+}
+
 /* Place the bottom nav at the bottom of the page, and make it stick */
 .bottomnav {
   background-color: #333;
