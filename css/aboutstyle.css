@@ -26,6 +26,7 @@
   color: white;
 }
 
+
 /* Place the bottom nav at the bottom of the page, and make it stick */
 .bottomnav {
   background-color: #333;
@@ -50,4 +51,3 @@
   padding: 40px;
   background-image: url("images/austriacover");
   color: white;
-}
