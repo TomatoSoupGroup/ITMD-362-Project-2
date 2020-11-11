@@ -1,3 +1,8 @@
+.header img {
+  width: 2em;
+  height: auto;
+}
+
 .form input {
   padding: 12px 20px;
   margin: 8px 0;
@@ -69,6 +74,6 @@ h1 {
 }
 
 .tab-title {
-  padding: 40px;
+  padding: 5em;
   background-image: url('https://media.gettyimages.com/photos/hallstatt-austria-picture-id538850366');
 }
