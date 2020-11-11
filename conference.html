@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="css/conferencestyle.css"/>
   <link rel="stylesheet" href="css/reset.css"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="js/script.js" async></script>
 </head>
 <body>
   <div class="header">
@@ -21,15 +22,15 @@
   </div>
   <div class="form">
     <h2>You won't want to miss the Austria Conference! Sign up now for more information.</h2>
-    <form action=#null>
+    <form name="myForm" action=#null onsubmit="return validateForm()" method="post" autocomplete="on">
       <label for="fname">First name:</label>
-      <input type="text" id="fname" name="fname" value="John">
+      <input type="text" id="fname" name="fname">
       <p></p>
       <label for="lname">Last name:</label>
-      <input type="text" id="lname" name="lname" value="Doe">
+      <input type="text" id="lname" name="lname">
       <p></p>
       <label for="email">Email:</label>
-      <input type="email" id="email" name="email" value="john.doe@email.com">
+      <input type="email" id="email" name="email">
       <p></p>
       <input type="Submit" value="Sign Up">
     </form> 
