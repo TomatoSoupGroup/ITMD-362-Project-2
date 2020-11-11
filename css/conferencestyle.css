@@ -18,6 +18,11 @@ h1 {
 /* Add a black background color to the top navigation */
 .nav-bar {
   background-color: #333;
+
+/* Add a black background color to the top navigation */
+.nav-bar {
+  background-color: #333;
+  overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
@@ -62,3 +67,7 @@ h1 {
   font-size: 17px;
 }
 
+.tab-title {
+  padding: 40px;
+  background-image: url('images/austriacover.jpg);
+}
