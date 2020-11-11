@@ -18,6 +18,7 @@ h1 {
 /* Add a black background color to the top navigation */
 .nav-bar {
   background-color: #333;
+}
 
 /* Add a black background color to the top navigation */
 .nav-bar {
@@ -69,5 +70,5 @@ h1 {
 
 .tab-title {
   padding: 40px;
-  background-image: url('images/austriacover.jpg);
+  background-image: url('https://media.gettyimages.com/photos/hallstatt-austria-picture-id538850366');
 }
