@@ -13,12 +13,20 @@
   background-image: url('https://media.gettyimages.com/photos/hallstatt-austria-picture-id538850366');
 }
 
-font_1{
+.content {
+  padding: 2em;
+}
+
+.content h1 {
   font-size: 2em;
 }
 
-font_2{
+.content p {
   font-size: 1.2em;
+}
+
+.content h2 {
+  font-size: 1em;
 }
 
 /* Add a black background color to the top navigation */
