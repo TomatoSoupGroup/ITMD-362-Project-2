@@ -8,6 +8,21 @@
   font-size: 2em;
 }
 
+.content{
+  padding: 15em;
+  background-image: url("https://theculturetrip.com/wp-content/uploads/2018/01/lowres_00000030758-lake-gosausee-upper-austria-oesterreich-werbung-wolfgang-weinhupl-edited.jpg");
+  height: 100%;
+  width: auto;
+}
+
+font_1{
+  
+}
+
+font_2{
+  
+}
+
 /* Add a black background color to the top navigation */
 .nav-bar {
   background-color: #333;
