@@ -13,6 +13,11 @@
   background-image: url('https://media.gettyimages.com/photos/hallstatt-austria-picture-id538850366');
 }
 
+.tab-title h1{
+  font-size: 2em;
+  color: white;
+}
+
 .content {
   padding: 2em;
 }
