@@ -1,3 +1,28 @@
+.header img {
+  width: 2em;
+  height: auto;
+}
+
+.header h1{
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 2em;
+}
+
+.content{
+  background-image: url("https://blogs.psychcentral.com/healing-together/files/2018/03/iStock-696209402-1024x683.jpg");
+  height: 100%;
+  width: auto;
+}
+
+.content h1{
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 2em;
+}
+
+.content p{
+  font-size: 1em;
+}
+
 /* Add a black background color to the top navigation */
 .nav-bar {
   background-color: #333;
