@@ -8,11 +8,9 @@
   font-size: 2em;
 }
 
-.content{
-  padding: 15em;
-  background-image: url("https://theculturetrip.com/wp-content/uploads/2018/01/lowres_00000030758-lake-gosausee-upper-austria-oesterreich-werbung-wolfgang-weinhupl-edited.jpg");
-  height: 100%;
-  width: auto;
+.tab-title {
+  padding: 5em;
+  background-image: url('https://media.gettyimages.com/photos/hallstatt-austria-picture-id538850366');
 }
 
 font_1{
@@ -70,8 +68,3 @@ font_2{
   text-decoration: none;
   font-size: 17px;
 }
-
-.tab-title {
-  padding: 40px;
-  background-image: url("images/austriacover");
-  color: white;
