@@ -25,6 +25,14 @@
   font-size: 1.2em;
 }
 
+.content h1 {
+  font-size: 2em;
+}
+
+.content h2 {
+  font-size: 1em;
+}
+
 /* Add a black background color to the top navigation */
 .nav-bar {
   background-color: #333;
