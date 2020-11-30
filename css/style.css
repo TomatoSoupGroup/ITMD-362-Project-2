@@ -73,6 +73,21 @@
   font-size: 17px;
 }
 
+.form input {
+  padding: 1em 2em;
+  margin: 1em 0;
+  box-sizing: border-box;
+}
+
+.form {
+  padding: 2em;
+}
+
+.form h2 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 1.5em;
+}
+
 .tab-title {
   padding: 40px;
   background: grey;
