@@ -102,6 +102,9 @@
   color: white;
   padding: 5em;
   background-image: url('https://media.gettyimages.com/photos/hallstatt-austria-picture-id538850366');
+}
+
+.tab-title conference{
   padding: 6em;
   background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F9cover.com%2Fimages%2Fccovers%2F1465147386city-of-vienna-austria.jpg&f=1&nofb=1");
 }
