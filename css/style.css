@@ -29,14 +29,17 @@
 
 .content p{
   font-size: 1.2em;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 .content h1 {
   font-size: 2em;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 .content h2 {
   font-size: 1em;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 /* Add a black background color to the top navigation */
