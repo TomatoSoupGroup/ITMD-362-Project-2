@@ -6,40 +6,47 @@
 .header h1{
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 2em;
+  margin: auto;
 }
 
 .indexcontent{
   padding: 15em;
   background-image: url("https://blogs.psychcentral.com/healing-together/files/2018/03/iStock-696209402-1024x683.jpg");
   height: 100%;
-  width: 120%;
+  width: auto;
+  margin: auto;
 }
 
 .aboutcontent{
   padding: 15em;
   height: 100%;
   width: auto;
+  margin: auto;
 }
 
 .content h1{
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 2em;
   color: white;
+  margin: auto;
 }
 
 .content p{
   font-size: 1.2em;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  margin: auto;
 }
 
 .content h1 {
   font-size: 2em;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  margin: auto;
 }
 
 .content h2 {
   font-size: 1.5em;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  margin: auto;
 }
 
 /* Add a black background color to the top navigation */
@@ -98,11 +105,13 @@
 
 .form {
   padding: 2em;
+  margin: auto;
 }
 
 .form h2 {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 1.5em;
+  margin: auto;
 }
 
 .tab-title {
